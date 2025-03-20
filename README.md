@@ -1,5 +1,5 @@
 <div align="center">
-<img width="600px" src="/assets/tess-trans.gif">
+<img width="400px" src="/assets/tess-trans.gif">
  </div>
 
 <h1 align="center">Greetings Nerds</h1>
@@ -11,10 +11,10 @@ I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com
 
 The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
-<img width="200px" src="/assets/abs_hsv.gif">
-<img width="200px" src="/assets/real_inferno.gif">
-<img width="200px" src="/assets/imag_jet.gif">
-<img width="200px" src="/assets/trade.gif">
+<img width="200px" src="/assets/abs_hsv.svg">
+<img width="200px" src="/assets/real_inferno.svg">
+<img width="200px" src="/assets/imag_jet.svg">
+<img width="200px" src="/assets/trade.svg">
  </div>
 
 ## 🧱 Tech Stack
