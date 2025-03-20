@@ -5,7 +5,13 @@
 <h1 align="center">Greetings Nerds</h1>
 <h3 align="center">Computer Scientist by Qualification and Mathematician in Training</h3>
 
-##  🙋‍♂️ About
+##  🎯♂️Main Projects
+
+I have 4 main projects: _Aayush Bajaj's Archived Intellect_, _Bots_, _Games_ and _Trading_. They are all open-source and version-controlled here.
+
+
+
+## 🧱 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -18,9 +24,12 @@
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 </p>
 
-## ⚙️ My Github Stats
+## STATS
+
+> "If numbers aren’t beautiful, I don’t know what is." — Paul Erdős, 1913 — 1996
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaj8494&theme=radical"/>
