@@ -14,7 +14,7 @@ The icons are constructed by taking absolute / real / imaginary slices of the co
   <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px;">
   <img width="180px" src="/assets/real_inferno.svg" style="margin: 10px;">
   <img width="180px" src="/assets/imag_jet.svg" style="margin: 10px;">
-  <img width="200px" src="/assets/trade.svg" style="margin: 10px;">
+  <img width="180px" src="/assets/trade.svg" style="margin: 10px;">
 </div>
 
 ## 🧱 Tech Stack
