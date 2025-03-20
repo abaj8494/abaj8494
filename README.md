@@ -11,11 +11,11 @@ I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com
 
 The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
-<img width="200px" src="/assets/abs_hsv.svg">
-<img width="200px" src="/assets/real_inferno.svg">
-<img width="200px" src="/assets/imag_jet.svg">
-<img width="200px" src="/assets/trade.svg">
- </div>
+  <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px;">
+  <img width="180px" src="/assets/real_inferno.svg" style="margin: 10px;">
+  <img width="180px" src="/assets/imag_jet.svg" style="margin: 10px;">
+  <img width="200px" src="/assets/trade.svg" style="margin: 10px;">
+</div>
 
 ## 🧱 Tech Stack
 
