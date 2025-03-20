@@ -10,18 +10,18 @@
 I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [https://github.com/abaj8494/games](_Games_) and [_Trading_](https://github.com/abaj8494/trading). They are all open-source, version-controlled and incomplete 😅.
 
 The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
-<div align="center">
+<div style="text-align: center; display: flex; justify-content: center; gap: 10px;">
   <a href="https://abaj.ai" target="_blank">
-    <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px; display: block;">
+    <img width="180px" src="/assets/abs_hsv.svg" style="display: block;">
   </a>
   <a href="https://abaj.bots" target="_blank">
-    <img width="180px" src="/assets/real_inferno.svg" style="margin: 10px; display: block;">
+    <img width="180px" src="/assets/real_inferno.svg" style="display: block;">
   </a>
   <a href="https://abaj.games" target="_blank">
-    <img width="180px" src="/assets/imag_jet.svg" style="margin: 10px; display: block;">
+    <img width="180px" src="/assets/imag_jet.svg" style="display: block;">
   </a>
   <a href="https://abaj.trades" target="_blank">
-    <img width="180px" src="/assets/trade.svg" style="margin: 10px; display: block;">
+    <img width="180px" src="/assets/trade.svg" style="display: block;">
   </a>
 </div>
 
