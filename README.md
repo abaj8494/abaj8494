@@ -10,21 +10,20 @@
 I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [https://github.com/abaj8494/games](_Games_) and [_Trading_](https://github.com/abaj8494/trading). They are all open-source, version-controlled and incomplete 😅.
 
 The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
-<div style="text-align: center;">
+<div align="center">
   <a href="https://abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px; vertical-align: middle;">
+    <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px; display: block;">
   </a>
   <a href="https://abaj.bots" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="180px" src="/assets/real_inferno.svg" style="margin: 10px; vertical-align: middle;">
+    <img width="180px" src="/assets/real_inferno.svg" style="margin: 10px; display: block;">
   </a>
   <a href="https://abaj.games" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="180px" src="/assets/imag_jet.svg" style="margin: 10px; vertical-align: middle;">
+    <img width="180px" src="/assets/imag_jet.svg" style="margin: 10px; display: block;">
   </a>
   <a href="https://abaj.trades" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="180px" src="/assets/trade.svg" style="margin: 10px; vertical-align: middle;">
+    <img width="180px" src="/assets/trade.svg" style="margin: 10px; display: block;">
   </a>
 </div>
-
 
 ## 🧱 Tech Stack
 
