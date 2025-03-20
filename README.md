@@ -1,8 +1,8 @@
 <div align="center">
-<img width="300px" src="/assets/tess.gif">
+<img width="300px" src="/assets/new.gif">
  </div>
 
-<h1 align="center">Hi 👻, I'm Aayush</h1>
+<h1 align="center">Hello, I'm Aayush</h1>
 <h3 align="center">I am a Computer Scientist and Mathematician</h3>
 
 <p align="center">
