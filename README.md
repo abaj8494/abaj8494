@@ -1,15 +1,21 @@
 <div align="center">
-<img width="300px" src="/assets/new.gif">
+<img width="600px" src="/assets/tess-trans.gif">
  </div>
 
 <h1 align="center">Greetings Nerds</h1>
 <h3 align="center">Computer Scientist by Qualification and Mathematician in Training</h3>
 
-##  🎯♂️Main Projects
+## 🎯♂️Main Projects
 
-I have 4 main projects: _Aayush Bajaj's Archived Intellect_, _Bots_, _Games_ and _Trading_. They are all open-source and version-controlled here.
+I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [https://github.com/abaj8494/games](_Games_) and [_Trading_](https://github.com/abaj8494/trading). They are all open-source, version-controlled and incomplete 😅.
 
-
+The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
+<div align="center">
+<img width="200px" src="/assets/abs_hsv.gif">
+<img width="200px" src="/assets/real_inferno.gif">
+<img width="200px" src="/assets/imag_jet.gif">
+<img width="200px" src="/assets/trade.gif">
+ </div>
 
 ## 🧱 Tech Stack
 
