@@ -46,18 +46,18 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 > "If numbers aren’t beautiful, I don’t know what is." — Paul Erdős, 1913 — 1996
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaj8494&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaj8494&theme=gruvbox"/>
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abaj8494&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abaj8494&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abaj8494&theme=gruvbox"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abaj8494&theme=gruvbox"/>
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abaj8494&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abaj8494&theme=radical&utcOffset=+1"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abaj8494&theme=gruvbox"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abaj8494&theme=gruvbox&utcOffset=+1"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abaj8494&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abaj8494&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
 </p>
 
 ---
