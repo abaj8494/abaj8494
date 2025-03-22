@@ -3,13 +3,13 @@
  </div>
 
 <h1 align="center">Greetings Nerds</h1>
-<h3 align="center">Computer Scientist by Qualification and Mathematician in Training</h3>
+<h3 align="center">Computer Scientist by Qualification, Mathematician in Training</h3>
 
-## 🎯♂️Main Projects
+## 🎯Main Projects
 
-I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [https://github.com/abaj8494/games](_Games_) and [_Trading_](https://github.com/abaj8494/trading). They are all open-source, version-controlled and incomplete 😅.
+I have 4 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [_Games_](https://github.com/abaj8494/games) and [_Trading_](https://github.com/abaj8494/trading) and they are all open-source, version-controlled and incomplete 😅.
 
-The icons are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
+These [icons](https://github.com/abaj8494/icons) are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
   <a href="https://abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
     <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px; display: block;">
