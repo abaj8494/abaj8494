@@ -33,6 +33,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 ## 🧱 Tech Stack
 
 ### Language Opinions
+
 <table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -64,10 +65,11 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
       <span style="font-size: 36px;">=</span>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" style="background-color: white; padding: 5px;" /></a>
+      <a href="#"><img height="50" src="./assets/go-icon.png" /></a>
     </td>
   </tr>
 </table>
+
 ## 📈 STATS
 
 > "If numbers aren’t beautiful, I don’t know what is." — Paul Erdős, 1913 — 1996
