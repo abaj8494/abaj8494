@@ -32,22 +32,21 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 
 ## 🧱 Tech Stack
 
-<h3 align="left">Language Opinions</h3>
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+<h3 align="left">Languages and Tools; ranked by competence:</h3>
+
+<p align="center">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">  </span>
+    <b style="font-size: 24px;">&gt;</b>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">&gt;</span>
-    
+    <br><br> <!-- Forces extra spacing -->
+
     <img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">&gt;</span>
+    <b style="font-size: 24px;">&gt;</b>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-    
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">  </span>
-    
+    <br><br> <!-- More spacing -->
+
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" />
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">=</span>
+    <b style="font-size: 24px;">=</b>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 </p>
 
