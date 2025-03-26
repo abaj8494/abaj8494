@@ -23,7 +23,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 </div>
 <div align="center">
   <a href="https://trading.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="180px" src="/assets/trade.svg" style="margin: 10px; display: block;">
+    <img width="180px" src="/assets/trade1.svg" style="margin: 10px; display: block;">
   </a>
   <a href="https://tools.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
     <img width="180px" src="/assets/tools.svg" style="margin: 10px; display: block;">
@@ -32,18 +32,19 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 
 ## 🧱 Tech Stack
 
-<h3 align="left">Languages and Tools; ranked by competence:</h3>
+<h3 align="left">Language Opinions</h3>
 <p align="center">
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG6.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    &gt;
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    &nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+    &gt;
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+    &nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" />
+    =
+    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 </p>
 
 ## 📈 STATS
