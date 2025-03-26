@@ -33,17 +33,38 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 ## 🧱 Tech Stack
 
 ### Language Opinions
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-  <span style="font-size: 36px;">></span>
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></a>
-  <span style="font-size: 36px;">></span>
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" /></a>
-  <span style="font-size: 36px;">=</span>
-  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></a>
-</div>
+
+<table align="center" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <span style="font-size: 36px;">></span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <span style="font-size: 36px;">></span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" /></a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <span style="font-size: 36px;">=</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 STATS
 
