@@ -32,8 +32,21 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 
 ## 🧱 Tech Stack
 
-# Language Opinions
-[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png){:height="50px"}](#) **>** [![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png){:height="50px"}](#) **>** [![C](https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png){:height="50px"}](#) **>** [![C++](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png){:height="50px"}](#) **>** [![OCaml](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png){:height="50px"}](#) **=** [![Go](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png){:height="50px"}](#)
+### Language Opinions
+
+<p align="center">
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+  &nbsp;<span style="font-size: 24px;">></span>&nbsp;
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></a>
+  &nbsp;<span style="font-size: 24px;">></span>&nbsp;
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" /></a>
+  &nbsp;<span style="font-size: 24px;">=</span>&nbsp;
+  <a href="#"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></a>
+</p>
 
 ## 📈 STATS
 
