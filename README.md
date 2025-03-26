@@ -35,7 +35,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 <h3 align="left">Language Opinions</h3>
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 30px;">
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">&nbsp;</span>
+    <span style="font-size: 36px; vertical-align: middle; color: #333;">  </span>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     
     <span style="font-size: 36px; vertical-align: middle; color: #333;">&gt;</span>
@@ -44,7 +44,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
     <span style="font-size: 36px; vertical-align: middle; color: #333;">&gt;</span>
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     
-    <span style="font-size: 36px; vertical-align: middle; color: #333;">&nbsp;</span>
+    <span style="font-size: 36px; vertical-align: middle; color: #333;">  </span>
     
     <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png" />
     <span style="font-size: 36px; vertical-align: middle; color: #333;">=</span>
