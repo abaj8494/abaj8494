@@ -7,7 +7,7 @@
 
 ## 🎯 Main Projects
 
-I have 5 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/cloud), [_Games_](https://github.com/abaj8494/games) and [_Trading_](https://github.com/abaj8494/trading) and they are all open-source, version-controlled and incomplete 😅.
+I have 5 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade) and [_Trading_](https://github.com/abaj8494/trading) and [_Tools_](https://github.com/abaj8494/tools). They are all open-source, version-controlled and incomplete 😅.
 
 These [icons](https://github.com/abaj8494/icons) are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
