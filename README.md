@@ -35,7 +35,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 
 ### 🧱 Tech Stacks
 
-<table>
+<table align="center">
   <tr>
     <th style="text-align:center;">Site / Subdomain</th>
     <th style="text-align:center;">Language(s)</th>
