@@ -7,7 +7,7 @@
 
 ## 🎯 Main Projects
 
-I have 5 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade) and [_Trading_](https://github.com/abaj8494/trading) and [_Tools_](https://github.com/abaj8494/tools). They are all open-source, version-controlled and incomplete 😅.
+I have 6 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade), [_Trading_](https://github.com/abaj8494/trading), [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). They are all open-source, version-controlled and incomplete 😅.
 
 These [icons](https://github.com/abaj8494/icons) are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
@@ -28,10 +28,23 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
   <a href="https://tools.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
     <img width="180px" src="/assets/tools.svg" style="margin: 10px; display: block;">
   </a>
+  <a href="https://ledger.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img width="180px" src="/assets/ledger.svg" style="margin: 10px; display: block;">
+  </a>
 </div>
 
-## 🧱 Tech Stack
+### 🧱 Tech Stacks
 
+| Site / Subdomain | Language(s)            | Libraries            |
+|------------------|------------------------|----------------------|
+| Abaj.ai         | Python, Lisp, TeX       | Numpy, Pytorch, Hugo |
+| Bots.abaj       | Typescript, Javascript  | React, Node         |
+| Arcade.abaj     | Java, Typescript        | React               |
+| Trading.abaj    | OCaml                   | Vue                 |
+| Tools.abaj      | Go, Typescript          | React               |
+| Ledger.abaj     | C++, Javascript         | Svelte              |
+
+ 
 ### Language Opinions
 
 <table align="center" style="width: 100%; border-collapse: collapse;">
