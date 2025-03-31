@@ -9,7 +9,7 @@
 
 I have 6 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade), [_Trading_](https://github.com/abaj8494/trading), [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). They are all open-source, version-controlled and incomplete 😅.
 
-These [icons](https://github.com/abaj8494/icons) are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
+These [icons](https://github.com/abaj8494/icons) are constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions. They are also NFT's on the [Cardano](https://cardano.org/) [blockchain](https://cardano.org/).
 <div align="center">
   <a href="https://abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
     <img width="180px" src="/assets/abs_hsv.svg" style="margin: 10px; display: block;">
@@ -35,14 +35,43 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 
 ### 🧱 Tech Stacks
 
-| Site / Subdomain | Language(s)            | Libraries            |
-|------------------|------------------------|----------------------|
-| Abaj.ai         | Python, Lisp, TeX       | Numpy, Pytorch, Hugo |
-| Bots.abaj       | Typescript, Javascript  | React, Node         |
-| Arcade.abaj     | Java, Typescript        | React               |
-| Trading.abaj    | OCaml                   | Vue                 |
-| Tools.abaj      | Go, Typescript          | React               |
-| Ledger.abaj     | C++, Javascript         | Svelte              |
+<table>
+  <tr>
+    <th style="text-align:center;">Site / Subdomain</th>
+    <th style="text-align:center;">Language(s)</th>
+    <th style="text-align:center;">Libraries</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Abaj.ai</td>
+    <td style="text-align:center;">Python, Lisp, TeX</td>
+    <td style="text-align:center;">Numpy, Pytorch, Hugo</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Bots.abaj</td>
+    <td style="text-align:center;">Typescript, Javascript</td>
+    <td style="text-align:center;">React, Node</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Arcade.abaj</td>
+    <td style="text-align:center;">Java, Typescript</td>
+    <td style="text-align:center;">React</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Trading.abaj</td>
+    <td style="text-align:center;">OCaml</td>
+    <td style="text-align:center;">Vue</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Tools.abaj</td>
+    <td style="text-align:center;">Go, Typescript</td>
+    <td style="text-align:center;">React</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Ledger.abaj</td>
+    <td style="text-align:center;">C++, Javascript</td>
+    <td style="text-align:center;">Svelte</td>
+  </tr>
+</table>
 
  
 ### Language Opinions
