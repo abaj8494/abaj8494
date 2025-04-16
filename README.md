@@ -128,7 +128,7 @@ These [icons](https://github.com/abaj8494/icons) are constructed by taking absol
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abaj8494&theme=gruvbox&utcOffset=+1"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abaj8494&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2c292d"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abaj8494&theme=gruvbox" alt="GitHub Streak" /></a>
 </p>
 
 ---
