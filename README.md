@@ -9,7 +9,7 @@
 
 I once just had 6 main projects: [_Aayush Bajaj's Archived Intellect_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade), [_Trading_](https://github.com/abaj8494/trading), [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). 
 
-They still exist and are all open-source, version-controlled and works-in-progress. Now I have even more web-apps, and I just deploy them statically with [Github-pages](https://abaj8494.github.io/shrine/people)!
+They still exist and are all open-source, version-controlled works-in-progress. These days I have even more [web-apps](https://abaj8494.github.io/shrine/people), so I don't bother creating icons and producing [horcruxes](https://tools.abaj.ai) of [abaj.ai](https://abaj.ai).
 
 The [icons](https://github.com/abaj8494/icons) (for the original 6) were constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.
 <div align="center">
