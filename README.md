@@ -37,7 +37,7 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
   </a>
 </div>
 
-### 🪜 Skills & Tools
+### 🧠 Monkey Know
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,29 +45,9 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
   </a>
 </p>
 
-### 🐍 GitHub Snake Animation
+### 🐍 Monkey Grease
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abaj8494/abaj8494/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-## 📈 STATS
-
-> "If numbers aren’t beautiful, I don’t know what is." — Paul Erdős, 1913 — 1996
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaj8494&theme=gruvbox"/>
-</p>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abaj8494&theme=gruvbox"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abaj8494&theme=gruvbox"/>
-</p>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abaj8494&theme=gruvbox"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abaj8494&theme=gruvbox&utcOffset=+1"/>
-</p>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abaj8494&theme=gruvbox" alt="GitHub Streak" /></a>
-</p>
-
----
