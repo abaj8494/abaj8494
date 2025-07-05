@@ -1,8 +1,7 @@
 <div align="center">
-  <figure>
-    <img width="400px" src="/assets/universal.gif" alt="Neural Nets learning 3-Space">
-    <figcaption>Neural Nets can learn <em>any surface</em>😬</figcaption>
-  </figure>
+  <img width="400px" src="/assets/universal.gif" alt="Neural Nets learning 3-Space">
+  <br>
+  <em>Neural Nets can learn <em>any surface</em>😬</em>
 </div>
 
 <h1 align="center">yoz,</h1>
