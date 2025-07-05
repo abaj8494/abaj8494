@@ -1,9 +1,12 @@
 <div align="center">
-<img width="400px" src="/assets/tess-trans.gif">
- </div>
+  <figure>
+    <img width="400px" src="/assets/universal.gif" alt="Neural Nets learning 3-Space">
+    <figcaption>Neural Nets can learn <em>any surface</em>😬</figcaption>
+  </figure>
+</div>
 
-<h1 align="center">Greetings Nerds</h1>
-<h3 align="center">Computer Scientist by Qualification, Mathematician in Training</h3>
+<h1 align="center">yoz,</h1>
+<h3 align="center">currently i am: a <strong>Computer Scientist by Qualification</strong>, and a <strong>Mathematician in Training</strong></h3>
 
 ## 🔨 Monkey Built
 
