@@ -11,7 +11,7 @@
 
 I once just had 6 main projects: [_Aayush Bajaj's Augmenting Infrastructure_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade), [_Trading_](https://github.com/abaj8494/trading), [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). 
 
-They still exist and are all open-source, version-controlled Works-In-Progress. 
+They all still exist and are *open-source*, *version-controlled* _Works-In-Progress_ (WIP). 
 
 But these days I have even more [web-apps](https://abaj8494.github.io/shrine/people), so I don't bother creating icons and producing [horcruxes](https://tools.abaj.ai) of [abaj.ai](https://abaj.ai) for them all.
 
@@ -39,7 +39,7 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
   </a>
 </div>
 
-### 🧠 Monkey Know
+## 🧠 Monkey Know
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
   </a>
 </p>
 
-### 🐍 Monkey Grease
+## 🐍 Monkey Grease
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abaj8494/abaj8494/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
