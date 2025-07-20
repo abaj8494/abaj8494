@@ -11,7 +11,7 @@
 
 I once just had 6 main projects: [_Aayush Bajaj's Augmenting Infrastructure_](https://github.com/abaj8494/site), [_Bots_](https://github.com/abaj8494/bots), [_Arcade_](https://github.com/abaj8494/arcade), [_Trading_](https://github.com/abaj8494/trading), [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). 
 
-They all still exist and are *open-source*, *version-controlled* _Works-In-Progress_ (WIP). 
+They all still exist and are **open-source**, **version-controlled** _Works-In-Progress_ (WIP). 
 
 But these days I have even more [web-apps](https://abaj8494.github.io/shrine/people), so I don't bother creating icons and producing [horcruxes](https://tools.abaj.ai) of [abaj.ai](https://abaj.ai) for them all.
 
