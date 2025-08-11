@@ -4,8 +4,8 @@
   Neural Nets can learn <em>any surface</em> 😬
 </div>
 
-<h1 align="center">yoz,</h1>
-<h3 align="center">currently i am: a <strong>Computer Scientist by Qualification</strong>, and a <strong>Mathematician in Training</strong></h3>
+<h1 align="center">greetings,</h1>
+<h3 align="center">currently i am: a <strong>looking for work.</strong></h3>
 
 ## 🔨 Monkey Built
 
