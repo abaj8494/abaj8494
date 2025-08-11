@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">greetings,</h1>
-<h3 align="center">currently i am: a <strong>looking for work.</strong></h3>
+<h3 align="center">currently i am: <strong>looking for work.</strong></h3>
 
 ## 🔨 Monkey Built
 
