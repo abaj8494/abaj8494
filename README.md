@@ -53,3 +53,8 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
   <img src="https://raw.githubusercontent.com/abaj8494/abaj8494/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
+## 🌳 Monkey Grit
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity" alt="Leetcode Stats" />
+</p>
