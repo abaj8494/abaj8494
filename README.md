@@ -56,5 +56,5 @@ The [icons](https://github.com/abaj8494/icons) (for the original 6) were constru
 ## 🌳 Monkey Grit
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jacoblincool?ext=activity" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/abaj8494?ext=activity" alt="Leetcode Stats" />
 </p>
