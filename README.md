@@ -1,7 +1,7 @@
 <div align="center">
   <img width="700px" src="/assets/universal.gif" alt="Neural Nets learning 3-Space">
   <br>
-  Neural Nets can learn <em>any surface</em> 😬
+  <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem"> The Universal Approximation Theorem </a>
 </div>
 
 <h1 align="center">greetings,</h1>
