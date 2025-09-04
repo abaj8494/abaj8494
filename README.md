@@ -64,10 +64,19 @@ Whilst I continue to develop, refactor and improve all of these projects I only 
 I learned to code so I could build what I dreamt. But now a carefully crafted prompt with strict supervision produces code that is individually satisfactory to me:
 - [bytelocker](https://github.com/abaj8494/bytelocker)
 
-As such, a word on the matter is prudent: [abaj.ai](https://abaj.ai) remains a mostly artisanally crafted site. And simpler projects have been explicitly demarked as being produced by an LLM:
+As such, a word on the matter is prudent; [abaj.ai](https://abaj.ai) remains a mostly artisanally crafted site (except where credit is apportioned in the about section), and now simpler ideas (i.e. those that can be deployed statically) are hosted by Github Pages and explicitly demarked in their README's as being "vibe-coded":
 - [shrine](https://abaj8494.github.io/shrine/people)
 
-Nonetheless, I aim to write my own code whenever possible and transcribe syntaxes I am learning manually in other places. My vibe-coding days are over, the Minimal Viable Products have been produced and my imagination is largely satiated.
+More recently, I have abandoned Cursor; writing my own code and manually transcribing code out of a Chat-bot should I need it. No copy-pasting!
 
-To end, I am a proponent of Fairness, Accountability and Transparency in AI and have collaboratively authored a [Value Sensitive Design on GPT3](https://abaj.ai/doc/essays/gpt3.pdf). More technically, I have built GPT2 [here](https://github.com/abaj8494/10khrs-ai-ml-dl).
+Gratefully, my vibe-coding projects have been built:
+- [a nice knights tour front-end on my dfs algorithm]([https://github.com/abaj8494/knights-tour](https://abaj8494.github.io/knights-tour/)
+- [banagrams front-end](https://github.com/abaj8494/banagrams)
+- [font2splines generator](https://github.com/abaj8494/font2splines)
+
+and I have the benefit of functionality and a sated imagination.
+
+To end, Fairness, Accountability and Transparency is important to me and in class we authored a [Value Sensitive Design on GPT3](https://abaj.ai/doc/essays/gpt3.pdf). 
+
+For a more technical survey of my AI programming skills please see [the augmenting infrastructure](abaj.ai/projects#machine-learning) and one of its submoduled repos: [10k-hrs-ai-ml-dl](https://github.com/abaj8494/10khrs-ai-ml-dl); also pinned below:
 
