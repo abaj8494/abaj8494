@@ -70,7 +70,7 @@ As such, a word on the matter is prudent; [abaj.ai](https://abaj.ai) remains a m
 More recently, I have abandoned Cursor; writing my own code and manually transcribing code out of a Chat-bot should I need it. No copy-pasting!
 
 Gratefully, my vibe-coding projects have been built:
-- [a nice knights tour front-end on my dfs algorithm]([https://github.com/abaj8494/knights-tour](https://abaj8494.github.io/knights-tour/)
+- [a nice knights tour front-end on my dfs algorithm](https://github.com/abaj8494/knights-tour)
 - [banagrams front-end](https://github.com/abaj8494/banagrams)
 - [font2splines generator](https://github.com/abaj8494/font2splines)
 
@@ -78,5 +78,5 @@ and I have the benefit of functionality and a sated imagination.
 
 To end, Fairness, Accountability and Transparency is important to me and in class we authored a [Value Sensitive Design on GPT3](https://abaj.ai/doc/essays/gpt3.pdf). 
 
-For a more technical survey of my AI programming skills please see [the augmenting infrastructure](abaj.ai/projects#machine-learning) and one of its submoduled repos: [10k-hrs-ai-ml-dl](https://github.com/abaj8494/10khrs-ai-ml-dl); also pinned below:
+For a more technical survey of my AI programming skills please see [the augmenting infrastructure](https://abaj.ai/projects#machine-learning) <a href="https://abaj.ai/projects#machine-learning"><img src="https://abaj.ai/abs_hsv.svg" alt="Aayush Bajaj's Augmenting Infrastructure" style="vertical-align: text-bottom; width: 16px; height: auto;"></a> and one of its submoduled repos: [10k-hrs-ai-ml-dl](https://github.com/abaj8494/10khrs-ai-ml-dl); also pinned below.
 
