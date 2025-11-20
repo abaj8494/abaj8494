@@ -48,8 +48,8 @@ Other Refined Works:
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abaj8494?ext=activity" alt="Leetcode Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abaj8494&show_icons=true&theme=gruvbox&rank_icon=github&card_width=475" alt="Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaj8494&show_icons=true&theme=gruvbox&card_width=475" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=abaj8494&show_icons=true&theme=great-gatsby&rank_icon=github&card_width=475" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaj8494&show_icons=true&theme=great-gatsby&card_width=475" alt="Top Langs">
 </p>
 
 ## ☁️ Monkey Dream
