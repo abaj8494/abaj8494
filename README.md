@@ -4,16 +4,15 @@
   <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem"> The Universal Approximation Theorem </a>
 </div>
 
-<h1 align="center">greetings,</h1>
+<h1 align="center">howdy,</h1>
 <h3 align="center">currently i am: <strong>looking for work.</strong></h3>
-<h3 align="center">>><strong><a href="https://abaj.ai/projects">https://abaj.ai/projects</a></strong><<</h3>
 
 
-## 🧠 Monkey Know
+## 🧠 Monkey Can
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,docker,linux,c,latex,go,r,git,neovim,emacs" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,docker,linux,c,latex,go,git,neovim,emacs" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -23,61 +22,36 @@
   <img src="https://raw.githubusercontent.com/abaj8494/abaj8494/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
+
+## 🔨 Monkey Built
+
+Some of my notable and favourite code:
+- [my knowledge wiki](abaj.ai) - multi-disciplinary Turing complete notes powered by Emacs and org-mode.
+- [tikzjax](https://github.com/abaj8494/tikzjax) - my fork of tikzjax. modified to include algorithm and UML diagram support -- the back-bone of my website
+- [anki-tikz] - a plugin I wrote over the course of a weekend to allow alternative $\LaTeX{}$ compilation engines in modern [Anki](https://apps.ankiweb.net)
+- [bytelocker](http://github.com/abaj8494/bytelocker) - Neovim plugin to losslessly encrypt and decrypt regions and buffers with cipher implementations. Originally written in C, ported to Lua.
+- [3-space math map](https://abaj.ai/code/math-map/docs) - Static-site built with Svelte and Three.js to visualise 48 topics of mathematics across all levels of the field. Graph structure with historical flavours.
+- [shrine](https://abaj.ai/code/shrine/docs) - Pannable timeline populated with the greatest minds that lived -- their photos were ripped from Wikimedia Commons and their birth-dates are included. The project is evolving to include books, art, dinosaurs and historical eras. WIP
+
+Some of my favourite essays:
+- [Solving Peg Solitaire](https://abaj.ai/projects/csp/peg-solitaire) - Backtracking implementation to solve an old family puzzle
+- [Insufficiency of Kantian Ethics for AMA](https://abaj.ai/doc/essays/kantian.pdf) - A thorough but terse essay addressing the insufficiency of Kantian / rule-based Artificial Moral Agents.
+- [Value Sensitive Design of GPT3](https://abaj.ai/doc/essays/gpt3.pdf) - Human-Centered AI evaluation of the development and delivery of the indelible 'ChatGPT'
+- [Perceptron](https://abaj.ai/projects/dl/perceptron/) - An explainer on the logical and historical conception of Rosenblatt's perceptron. Limitations advertised, Marvin Minsky mentioned.
+- [Muli-layered Perceptron](https://abaj.ai/projects/ml/dl/mlp/) - A continuation from the limitations of the perceptron. We solve some non-trivial non-linear problems in code.
+
+Other Refined Works:
+- [Michael Nielsen's Deep Learning Book](https://abaj.ai/projects/ml/dl/feedforward/) - a thorough study of *feedforward networks*
+- [Birthday Problems](https://abaj.ai/projects/bday-problems/) - An annual game played on the 26th of December.
+
 ## 🌳 Monkey Grit
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abaj8494?ext=activity" alt="Leetcode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abaj8494&show_icons=true&theme=react&rank_icon=github&card_width=475" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaj8494&show_icons=true&theme=react&card_width=475" alt="Top Langs">
 </p>
-
-## 🔨 Monkey Built
-
-I ran a K-means algorithm on my brain and settled on 6 centroids: [_Aayush Bajaj's Augmenting Infrastructure_](https://github.com/abaj8494/site); [_Bots_](https://github.com/abaj8494/bots); [_Arcade_](https://github.com/abaj8494/arcade); [_Trading_](https://github.com/abaj8494/trading); [_Tools_](https://github.com/abaj8494/tools) and [_Ledger_](https://github.com/abaj8494/ledger). Correspondingly, I _horcruxed_ my [abaj.ai](https://abaj.ai) domain:
-
-<div align="center">
-  <a href="https://abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="100px" src="/assets/abs_hsv.svg" style="margin: 10px; display: block;">
-  </a>
-  <a href="https://bots.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="50px" src="/assets/real_inferno.svg" style="margin: 10px; display: block;">
-  </a>
-  <a href="https://arcade.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="50px" src="/assets/imag_jet.svg" style="margin: 10px; display: block;">
-  </a>
-</div>
-<div align="center">
-  <a href="https://trading.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="50px" src="/assets/trade1.svg" style="margin: 10px; display: block;">
-  </a>
-  <a href="https://tools.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="50px" src="/assets/tools.svg" style="margin: 10px; display: block;">
-  </a>
-  <a href="https://ledger.abaj.ai" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img width="50px" src="/assets/ledger.svg" style="margin: 10px; display: block;">
-  </a>
-</div>
-
-(the [icons](https://github.com/abaj8494/icons) were constructed by taking absolute / real / imaginary slices of the complex logarithm and exponential functions.)
-
-Whilst I continue to develop, refactor and improve all of these projects I only recommend interfacing with the first for now. The others are either incomplete or are MVP placeholders generated by Claude.
 
 ## ☁️ Monkey Dream
 
-I learned to code so I could build what I dreamt. But now a carefully crafted prompt with strict supervision produces code that is individually satisfactory to me:
-- [bytelocker](https://github.com/abaj8494/bytelocker)
-
-As such, a word on the matter is prudent; [abaj.ai](https://abaj.ai) remains a mostly artisanally crafted site (except where credit is apportioned in the about section), and now simpler ideas (i.e. those that can be deployed statically) are hosted by Github Pages and explicitly demarked in their README's as being "vibe-coded":
-- [shrine](https://abaj8494.github.io/shrine/people)
-
-More recently, I have abandoned Cursor; writing my own code and manually transcribing code out of a Chat-bot should I need it. No copy-pasting!
-
-Gratefully, my vibe-coding projects have been built:
-- [a nice knights tour front-end on my dfs algorithm](https://github.com/abaj8494/knights-tour)
-- [banagrams front-end](https://github.com/abaj8494/banagrams)
-- [font2splines generator](https://github.com/abaj8494/font2splines)
-
-and I have the benefit of functionality and a sated imagination.
-
-To end, Fairness, Accountability and Transparency is important to me and in class we authored a [Value Sensitive Design on GPT3](https://abaj.ai/doc/essays/gpt3.pdf). 
-
-For a more technical survey of my AI programming skills please see [the augmenting infrastructure](https://abaj.ai/projects#machine-learning) <a href="https://abaj.ai/projects#machine-learning"><img src="https://abaj.ai/abs_hsv.svg" alt="Aayush Bajaj's Augmenting Infrastructure" style="vertical-align: text-bottom; width: 16px; height: auto;"></a> and one of its submoduled repos: [10k-hrs-ai-ml-dl](https://github.com/abaj8494/10khrs-ai-ml-dl); also pinned below.
-
+These days I am learning Typescript formally and marching on with Leetcode in Python. I am also reading System Design books.
