@@ -28,7 +28,7 @@
 Some of my notable and favourite code:
 - [my knowledge wiki](abaj.ai) - multi-disciplinary Turing complete notes powered by Emacs and org-mode.
 - [tikzjax](https://github.com/abaj8494/tikzjax) - my fork of tikzjax. modified to include algorithm and UML diagram support -- the back-bone of my website
-- [anki-tikz] - a plugin I wrote over the course of a weekend to allow alternative $\LaTeX{}$ compilation engines in modern [Anki](https://apps.ankiweb.net)
+- [anki-tikz](https://github.com/abaj8494/anki-tikz) - a plugin I wrote over the course of a weekend to allow alternative $\LaTeX{}$ compilation engines in modern [Anki](https://apps.ankiweb.net)
 - [bytelocker](http://github.com/abaj8494/bytelocker) - Neovim plugin to losslessly encrypt and decrypt regions and buffers with cipher implementations. Originally written in C, ported to Lua.
 - [3-space math map](https://abaj.ai/code/math-map/docs) - Static-site built with Svelte and Three.js to visualise 48 topics of mathematics across all levels of the field. Graph structure with historical flavours.
 - [shrine](https://abaj.ai/code/shrine/docs) - Pannable timeline populated with the greatest minds that lived -- their photos were ripped from Wikimedia Commons and their birth-dates are included. The project is evolving to include books, art, dinosaurs and historical eras. WIP
