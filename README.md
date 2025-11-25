@@ -29,7 +29,7 @@ Some of my notable and favourite code:
 - [3-space math map](https://abaj.ai/code/math-map/docs) - Static-site built with Svelte and Three.js to visualise 48 topics of mathematics across all levels of the field. Graph structure with historical flavours.
 - [shrine](https://abaj.ai/code/shrine/docs) - Pannable timeline populated with the greatest minds that lived -- their photos were ripped from Wikimedia Commons and their birth-dates are included. The project is evolving to include books, art, dinosaurs and historical eras. WIP
 
-Some of essays:
+Some essays:
 - [Solving Peg Solitaire](https://abaj.ai/projects/csp/peg-solitaire) - Backtracking implementation to solve an old family puzzle
 - [Insufficiency of Kantian Ethics for AMA](https://abaj.ai/doc/essays/kantian.pdf) - A thorough but terse essay addressing the insufficiency of Kantian / rule-based Artificial Moral Agents.
 - [Value Sensitive Design of GPT3](https://abaj.ai/doc/essays/gpt3.pdf) - Human-Centered AI evaluation of the development and delivery of the indelible 'ChatGPT'
