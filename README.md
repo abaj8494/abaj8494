@@ -24,38 +24,29 @@
 
 ##
 
-UNSW BSc(AI) graduate, Master of Statistics in progress (UNSW), AWS Solutions Architect certified. I work mostly in Python, Go, TypeScript, Rust and C — out of Sydney. Open to ML and SDE roles.
+Some of the work:
 
-📄 [resume — software](https://abaj.ai/doc/career/cv/renderCV/rendercv_output/Aayush_Bajaj_Software_Engineer.pdf) · [resume — AI](https://abaj.ai/doc/career/cv/renderCV/rendercv_output/Aayush_Bajaj_AI_Engineer.pdf) · ✉️ [j@abaj.ai](mailto:j@abaj.ai) · 🔗 [linkedin/abaj](https://linkedin.com/in/abaj)
+- [bytelocker.el](https://github.com/abaj8494/bytelocker.el) / [bytelocker.nvim](https://github.com/abaj8494/bytelocker.nvim) — buffer & region encryption inside Emacs and Neovim, with three native cipher implementations on top of a shared core.
+- [anki-tikz](https://github.com/abaj8494/anki-tikz) — patch on top of Anki to swap the LaTeX engine, written over a weekend so my flashcards could compile the mathematical TikZ I cared about.
+- [tikzjax](https://github.com/abaj8494/tikzjax) — fork of TikZJax extended with algorithm and UML diagram support. The rendering backbone of [abaj.ai](https://abaj.ai), and useful to anyone running a static site that wants typeset diagrams.
+- [Typtel](https://github.com/abaj8494/homebrew-typing-telemetry) — Go macOS menu-bar telemetry app with its own Homebrew tap. `brew install --cask typtel`, then read your own keystrokes back through a TUI.
+- [chessmarkable-rpp](https://github.com/abaj8494/chessmarkable-rpp), [regenda](https://github.com/abaj8494/regenda), [rmpp-koreader-plugins](https://github.com/abaj8494/rmpp-koreader-plugins) — chess, CalDAV, and KOReader plugins ported to the reMarkable Paper Pro. If you own one and want it to do more, this is the start.
+- [3-space math map](https://abaj.ai/code/math-map/docs) — 48 topics of mathematics laid out as a Svelte + Three.js graph: high-school through to research, with historical edges between them.
 
----
+## Some essays:
 
-### Currently shipping
+- [Insufficiency of Kantian Ethics for AMA](https://abaj.ai/doc/essays/kantian.pdf) — a thorough but terse argument against rule-based artificial moral agents.
+- [Value Sensitive Design of GPT-3](https://abaj.ai/doc/essays/gpt3.pdf) — a human-centred-AI evaluation of ChatGPT's development and rollout.
+- [Perceptron](https://abaj.ai/projects/dl/perceptron/) — Rosenblatt's logical and historical conception. Limitations advertised, Marvin Minsky mentioned.
+- [Multi-layered Perceptron](https://abaj.ai/projects/ml/dl/mlp/) — the continuation: solving non-trivial non-linear problems in code.
+- [Solving Peg Solitaire](https://abaj.ai/projects/csp/peg-solitaire) — backtracking implementation for an old family puzzle, with a research note on when neural methods stop helping.
+- [Michael Nielsen's Deep Learning Book](https://abaj.ai/projects/ml/dl/feedforward/) — a thorough study of feedforward networks.
+- [Birthday Problems](https://abaj.ai/projects/bday-problems/) — a fresh set of problems released each 26th of December to mark another year of life and study.
 
-- **[Typtel](https://github.com/abaj8494/homebrew-typing-telemetry)** — Go macOS menu-bar telemetry app tracking every keystroke (modifiers and shortcuts included) and mouse distance; distributed via my own Homebrew tap.
-- **[arcade.abaj.ai](https://arcade.abaj.ai)** — 22 browser games (Chess, Battleships, Tetris, Go) with real-time multiplayer over Socket.IO and 94% test coverage. Flutter mobile client in flight.
-- **[pegs.abaj.ai](https://pegs.abaj.ai)** — Universal neural peg-solitaire solver: one ResNet (squeeze-and-excitation + multi-head attention) trained via imitation learning on DFS solutions across 8 board topologies, ONNX-deployed for browser inference. With a research write-up on when neural methods stop adding value.
-- **[mines.abaj.ai](https://mines.abaj.ai)** — Hybrid CSP + ResNet Minesweeper solver, ONNX-deployed in-browser at 85–95% win rate.
-- **[KiTS19 Grand Challenge](https://kits19.grand-challenge.org)** — Ranked #57 globally with 0.9129 Dice on 3D kidney and tumour segmentation; nnU-Net pipeline trained on H200 GPUs, technical report published.
+## Lately:
 
-### Selected work
+- [KiTS19](https://kits19.grand-challenge.org) — ranked #57 globally with 0.9129 Dice on 3D kidney + tumour segmentation; nnU-Net trained on H200 GPUs, technical report attached.
+- [pegs.abaj.ai](https://pegs.abaj.ai), [mines.abaj.ai](https://mines.abaj.ai), [arcade.abaj.ai](https://arcade.abaj.ai) — three browser-deployed ML and multiplayer demos out of [abaj.ai](https://abaj.ai)'s 14-subdomain network.
+- [10,000 Hours of ML](https://github.com/abaj8494/10khrs-ai-ml-dl) — long-running self-directed lab; CV / NLP / RL / supervised baselines, paired with written reflection.
 
-- **[abaj.ai](https://abaj.ai)** — Personal knowledge wiki and infrastructure network: 1,476 indexed pages and 14 subdomain applications under one Hugo monorepo. Powered by Emacs and org-mode.
-- **[bytelocker](https://github.com/abaj8494/bytelocker)** — Buffer/region encryption library in C with native Neovim (Lua) and Emacs (Elisp) front-ends; three cipher implementations.
-- **[tikzjax (fork)](https://github.com/abaj8494/tikzjax)** — Extended with algorithm and UML diagram support; the rendering backbone of abaj.ai.
-- **[anki-tikz](https://github.com/abaj8494/anki-tikz)** — Anki plugin patch enabling alternative LaTeX engines for mathematical study; weekend hack.
-- **[3-space math map](https://abaj.ai/code/math-map/docs)** — 48 topics of mathematics as a Svelte + Three.js graph spanning high-school through research, with historical-flavour edges.
-- **[shrine](https://abaj.ai/code/shrine/docs)** — Pannable timeline of the greatest minds who lived (Wikimedia photos); evolving toward books, art, dinosaurs and historical eras.
-
-### Writing
-
-- [Solving Peg Solitaire](https://abaj.ai/projects/csp/peg-solitaire) — Backtracking implementation for an old family puzzle.
-- [Insufficiency of Kantian Ethics for AMA](https://abaj.ai/doc/essays/kantian.pdf) — A thorough but terse argument against rule-based artificial moral agents.
-- [Value Sensitive Design of GPT-3](https://abaj.ai/doc/essays/gpt3.pdf) — Human-centred evaluation of ChatGPT's development and rollout.
-- [Perceptron](https://abaj.ai/projects/dl/perceptron/) — Rosenblatt's logical and historical conception. Limitations advertised, Minsky mentioned.
-- [Multi-layered Perceptron](https://abaj.ai/projects/ml/dl/mlp/) — Continuation: solving non-trivial non-linear problems in code.
-- [Michael Nielsen's Deep Learning Book](https://abaj.ai/projects/ml/dl/feedforward/) — A thorough study of feedforward networks.
-
----
-
-Currently marching through the Blind 75 in Python, the Hugging Face agents course, and a long-running [10,000 Hours of ML](https://github.com/abaj8494/10khrs-ai-ml-dl) lab. Always happy to chat about ML systems, type-driven design, or why deterministic puzzles don't need neural networks.
+These days I'm marching through the Blind 75 in Python and the Hugging Face agents course.
