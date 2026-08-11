@@ -27,10 +27,9 @@
 Some of the work:
 
 - [bytelocker.el](https://github.com/abaj8494/bytelocker.el) / [bytelocker.nvim](https://github.com/abaj8494/bytelocker.nvim) — buffer & region encryption inside Emacs and Neovim, with three native cipher implementations on top of a shared core.
-- [anki-tikz](https://github.com/abaj8494/anki-tikz) — patch on top of Anki to swap the LaTeX engine, written over a weekend so my flashcards could compile the mathematical TikZ I cared about.
-- [tikzjax](https://github.com/abaj8494/tikzjax) — fork of TikZJax extended with algorithm and UML diagram support. The rendering backbone of [abaj.ai](https://abaj.ai), and useful to anyone running a static site that wants typeset diagrams.
-- [Typtel](https://github.com/abaj8494/homebrew-typing-telemetry) — Go macOS menu-bar telemetry app with its own Homebrew tap. `brew install --cask typtel`, then read your own keystrokes back through a TUI.
-- [chessmarkable-rpp](https://github.com/abaj8494/chessmarkable-rpp), [regenda](https://github.com/abaj8494/regenda), [rmpp-koreader-plugins](https://github.com/abaj8494/rmpp-koreader-plugins) — chess, CalDAV, and KOReader plugins ported to the reMarkable Paper Pro. If you own one and want it to do more, this is the start.
+- [anki-tikz](https://github.com/abaj8494/anki-tikz) — patch on top of Anki to swap the LaTeX engine
+- [tikzjax](https://github.com/abaj8494/tikzjax) — fork of TikZJax extended with algorithm and UML diagram support. The rendering backbone of [abaj.ai](https://abaj.ai)
+- [Typtel](https://github.com/abaj8494/homebrew-typing-telemetry) — Go macOS menu-bar telemetry app with its own Homebrew tap. `brew install --cask typtel`
 - [3-space math map](https://abaj.ai/code/math-map/docs) — 48 topics of mathematics laid out as a Svelte + Three.js graph: high-school through to research, with historical edges between them.
 
 ## Some essays:
@@ -43,10 +42,10 @@ Some of the work:
 - [Michael Nielsen's Deep Learning Book](https://abaj.ai/projects/ml/dl/feedforward/) — a thorough study of feedforward networks.
 - [Birthday Problems](https://abaj.ai/projects/bday-problems/) — a fresh set of problems released each 26th of December to mark another year of life and study.
 
-## Lately:
+## ML Projects:
 
 - [KiTS19](https://kits19.grand-challenge.org) — ranked #57 globally with 0.9129 Dice on 3D kidney + tumour segmentation; nnU-Net trained on H200 GPUs, technical report attached.
 - [pegs.abaj.ai](https://pegs.abaj.ai), [mines.abaj.ai](https://mines.abaj.ai), [arcade.abaj.ai](https://arcade.abaj.ai) — three browser-deployed ML and multiplayer demos out of [abaj.ai](https://abaj.ai)'s 14-subdomain network.
 - [10,000 Hours of ML](https://github.com/abaj8494/10khrs-ai-ml-dl) — long-running self-directed lab; CV / NLP / RL / supervised baselines, paired with written reflection.
 
-These days I'm marching through the Blind 75 in Python and the Hugging Face agents course.
+
