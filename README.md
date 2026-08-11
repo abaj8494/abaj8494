@@ -24,7 +24,7 @@
 
 ##
 
-Some of the work:
+Publicly shared work:
 
 - [bytelocker.el](https://github.com/abaj8494/bytelocker.el) / [bytelocker.nvim](https://github.com/abaj8494/bytelocker.nvim) — buffer & region encryption inside Emacs and Neovim, with three native cipher implementations on top of a shared core.
 - [anki-tikz](https://github.com/abaj8494/anki-tikz) — patch on top of Anki to swap the LaTeX engine
