@@ -23,7 +23,7 @@
     </picture>
   </a>
   <br>
-  <sub>Arcade Expressed</sub>
+  <a href="https://arcade.express/game/pacman"><sub>Arcade Expressed</sub></a>
 </div>
 
 ##
